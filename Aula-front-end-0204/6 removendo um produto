@@ -1,0 +1,26 @@
+[
+  {
+    "id": "79c0",
+    "descricao": "Computador Dell I7-7990",
+    "preco": 2100,
+    "quantidade": 60
+  },
+  {
+    "id": "f357",
+    "descricao": "Computador Asus I7-7990",
+    "preco": 2150,
+    "quantidade": 75
+  },
+  {
+    "id": "c221",
+    "descricao": "Notebook Asus I7-7990",
+    "preco": 3150,
+    "quantidade": 15
+  },
+  {
+    "id": "2e07",
+    "descricao": "Notebook Dell I5-7990",
+    "preco": 3150,
+    "quantidade": 245
+  }
+]

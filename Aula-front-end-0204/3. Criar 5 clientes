@@ -1,0 +1,37 @@
+[
+  {
+    "id": "eabe",
+    "nome": "Rogerio da Silva",
+    "endereco": "Rua Anchieta 575",
+    "casado": true,
+    "renda": 4126
+  },
+  {
+    "id": "93b0",
+    "nome": "Fernando Casagrande",
+    "endereco": "Rua Anchieta 575",
+    "casado": false,
+    "renda": 12600
+  },
+  {
+    "id": "71da",
+    "nome": "Isack Newton",
+    "endereco": "Rua Anchieta 575",
+    "casado": true,
+    "renda": 2600
+  },
+  {
+    "id": "3ae3",
+    "nome": "Rafael Zafani",
+    "endereco": "Rua Anchieta 575",
+    "casado": false,
+    "renda": 16200
+  },
+  {
+    "id": "9673",
+    "nome": "Vinicius Galeni",
+    "endereco": "Rua Anchieta 575",
+    "casado": true,
+    "renda": 1600
+  }
+]
